@@ -6,5 +6,5 @@
  I'm currently working on jorjosite.dev
 
 ## 🧠 I'm currently learning
- Vue.js, MongoDB, C#, Godot
+ Vue.js, MongoDB, C#, Godot, React.js
 
