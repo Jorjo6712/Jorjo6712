@@ -3,7 +3,7 @@
 
 
 ## 👨‍💻 Work
- I'm currently working on jorjosite.dev
+ I'm currently working on multiple projects
 
 ## 🧠 I'm currently learning
  Vue.js, MongoDB, C#, Godot, React.js
