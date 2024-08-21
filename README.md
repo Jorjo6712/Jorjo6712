@@ -10,7 +10,9 @@
  I'm currently working on multiple projects
 
 ## ✍️ IDE/Editor of choice
-![Neovim](https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the-badge&logo=neovim&logoColor=white)
+<a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=neovim" />
+</a>
 
 ## 🛠️ What I use
 <p align="center">
