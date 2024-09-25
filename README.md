@@ -19,9 +19,9 @@
 
 
 ## 📊 GitHub Stats:
-![](https://github-contributor-stats.vercel.app/api?username=Jorjo6712&limit=5&theme=catppuccin_mocha&combine_all_yearly_contributions=true)
+![](https://github-contributor-stats.vercel.app/api?username=Jorjo6712&limit=5&theme=catppuccin_mocha&combine_all_yearly_contributions=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Jorjo6712&theme=catppuccin_mocha&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Jorjo6712&theme=catppuccin_mocha&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Jorjo6712&theme=catppuccin_mocha&hide_border=true&include_all_commits=false&count_private=false&layout=compact)<br/>
 [![](https://visitcount.itsvg.in/api?id=Jorjo6712&icon=3&color=6)](https://visitcount.itsvg.in)<br/>
 
 ## 🧠 I'm currently learning
