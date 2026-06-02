@@ -1,10 +1,6 @@
 
 ![Oscar](https://github.com/Jorjo6712/Jorjo6712/blob/main/oscar.gif)
 
-
-## 🚀 About Me
- I'm a systems developer/full-stack developer student studying at Zealand Business College (ZBC) in Ringsted Denmark. I'm currently looking for an apprenticeship at a company so I can kickstart my career.
-
 ## ✍️ IDE/Editor of choice
 <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=neovim" />
